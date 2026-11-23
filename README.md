@@ -1,11 +1,8 @@
 🎯 AI Skill Development Roadmap Generator
 
-🚀 Project ID: SIC 2.0-25
-
+Project ID: SIC 2.0-25
 Domain: Education
 Project Type: AI-Based Web Application
-
----
 
 📌 1. Project Overview
 
@@ -17,7 +14,6 @@ It provides a structured learning path with recommended skills, practical projec
 
 🎯 Our Goal: To make skill development easier, smarter, and more personalized through Artificial Intelligence.
 
----
 
 🎯 2. Problem Statement
 
@@ -33,7 +29,6 @@ Some common challenges are:
 
 Our project aims to solve these problems by providing students with a personalized and structured skill development roadmap.
 
----
 
 💡 3. Proposed Solution
 
@@ -48,7 +43,6 @@ The system will:
 5. Generate a step-by-step learning roadmap.
 6. Recommend practical projects and learning resources.
 
----
 
 ⚙️ 4. Key Features
 
@@ -86,7 +80,6 @@ Helps students understand the skills required for their selected career path.
 
 Provides a structured learning plan to help students organize their skill development journey.
 
----
 
 🔄 5. Working Process
 
@@ -114,7 +107,6 @@ Step 5: A personalized skill development roadmap is generated.
 
 Step 6: Student receives recommended skills, projects, and learning resources.
 
----
 
 🛠️ 6. Technologies Used
 
@@ -130,7 +122,6 @@ Machine Learning| Intelligent recommendations (planned enhancement)
 Google Colab| Python development and experimentation
 GitHub| Source code management and project documentation
 
----
 
 🧠 7. Role of Artificial Intelligence
 
@@ -146,7 +137,6 @@ The recommendation process will consider:
 
 The initial prototype may use rule-based recommendations, with Machine Learning-based recommendations planned as a future enhancement.
 
----
 
 📚 8. Example of Generated Roadmap
 
@@ -182,7 +172,6 @@ The system may recommend the following learning sequence:
 
 This roadmap helps students follow a structured learning journey.
 
----
 
 👥 9. Team Members and Responsibilities
 
@@ -201,7 +190,6 @@ Team Size: 5 Members
 
 Each team member has a specific responsibility to ensure effective teamwork and successful project development.
 
----
 
 📂 10. Project Structure
 
@@ -231,7 +219,6 @@ File Description
 - "screenshots/" – Project screenshots.
 - "README.md" – Project documentation.
 
----
 
 🌟 11. Expected Outcomes
 
@@ -244,7 +231,6 @@ After successful development, the project aims to:
 - Encourage practical skill development.
 - Make career-oriented learning more organized and accessible.
 
----
 
 🔮 12. Future Scope
 
@@ -258,7 +244,6 @@ Future improvements may include:
 - Downloadable learning roadmaps.
 - Integration of additional learning resources.
 
----
 
 🧪 13. Testing and Evaluation
 
@@ -271,7 +256,6 @@ The project will be tested to ensure that:
 - Website functionality works correctly on mobile devices.
 - The system provides consistent results.
 
----
 
 🎓 14. Project Significance
 
@@ -281,7 +265,6 @@ It aims to bridge the gap between students' current skills and the skills requir
 
 By providing personalized learning guidance, the system can help students make better decisions about their educational and professional development.
 
----
 
 ⭐ 15. Conclusion
 
@@ -291,6 +274,5 @@ By combining web technologies, data analysis, and intelligent recommendation tec
 
 Learn Smart. Build Skills. Achieve Your Goals. 🚀
 
----
 
 📌 Developed as part of Samsung Innovation Campus (SIC 2.0).
