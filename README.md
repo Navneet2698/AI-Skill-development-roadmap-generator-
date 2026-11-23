@@ -1,7 +1,7 @@
 🎯 AI Skill Development Roadmap Generator
 
 Project ID: SIC 2.0-25                         
-Domain: Education
+Domain: Education                             
 Project Type: AI-Based Web Application
 
 📌 1. Project Overview
